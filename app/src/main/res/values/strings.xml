@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Sklep</string>
+    <string-array name="mice_options">
+        <item>Myszka Logitech 100zł</item>
+        <item>Myszka Razer 150zł</item>
+        <item>Myszka SteelSeries 120zł</item>
+        <item>Myszka Corsair 200zł</item>
+    </string-array>
+
+    <string-array name="keyboard_options">
+        <item>Klawiatura Logitech 80zł</item>
+        <item>Klawiatura Razer 130zł</item>
+        <item>Klawiatura Corsair 120zł</item>
+        <item>Klawiatura SteelSeries 150zł</item>
+    </string-array>
+
+    <string-array name="webcam_options">
+        <item>Kamera Logitech C920 250zł</item>
+        <item>Kamera Razer Kiyo 300zł</item>
+        <item>Kamera Logitech StreamCam 350zł</item>
+    </string-array>
+
+    <string-array name="pc_options">
+        <item>Komputer biurowy 3000zł</item>
+        <item>Komputer gamingowy 4000zł</item>
+        <item>Komputer ULTRA 5000zł</item>
+    </string-array>
+
+</resources>
